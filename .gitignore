@@ -1,0 +1,20 @@
+﻿# Visual Studio
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# User specific files
+*.user
+*.suo
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OlympusThread": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
