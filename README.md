@@ -1,4 +1,3 @@
-﻿# Olympus Technical Assessment
 # Technical Notes
 
 ## Overview
@@ -123,3 +122,4 @@ Once it execute you may check in the your directory c:\junk there would be out.t
 99, 11, 11:01:57.592
 95, 9, 11:01:57.556
 100, 9, 11:01:57.604
+
